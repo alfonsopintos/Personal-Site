@@ -2,6 +2,12 @@ class WelcomeController < ApplicationController
   def index
   end
 
-  def about
+  def services
+  end
+
+  def portfolio
+  end
+
+  def contact
   end
 end
