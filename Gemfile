@@ -32,6 +32,10 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Twiter Bootstrap Asset Library
 gem "twitter-bootstrap-rails"
 
+# Contact Mailer
+gem 'mail_form'
+gem 'simple_form'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
